@@ -58,4 +58,4 @@ quantum hardware at TOBB ETU.
 [Website](https://ermannadas.com/) ·
 [Google Scholar](https://scholar.google.com/citations?user=VGrod78AAAAJ) ·
 [ORCID](https://orcid.org/0009-0009-0827-2610) ·
-[LinkedIn](https://www.linkedin.com/in/ermannadas/)
+[LinkedIn](https://www.linkedin.com/in/ermannadas/) · [ResearchGate](https://www.researchgate.net/profile/Huesnue-Erman-Nadas)
